@@ -129,7 +129,7 @@ Cada segmento possui carrinhos próprios de dispositivos.
 
 ---
 
-## 👨‍💻 Autor
+## 👨‍💻 Autores
 
 **Gabryel Guimarães**  
 Estudante de BICT - UFMA | Estagiário na área de inovação e tecnologia.
